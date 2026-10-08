@@ -5,7 +5,7 @@ autoinstall:
   identity:
     hostname: temporary
     username: ubuntu-admin
-    password: "!"
+    password: "$6$YMDFRAEJoglgAVZC$Tfr4jSJRTH1tJM5h3Dn2F7Oc/tCXaVVoQ5kj8J9bOoQ.4Rd6ZG7Jn/UXRfTsFjMiYO97VFO6JHfQ3UcwBZQ9Z."
 
   ssh:
     install-server: true
